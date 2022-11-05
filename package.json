@@ -1,0 +1,19 @@
+{
+  "name": "magic-post-it",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "3.0.3",
+    "@mirohq/websdk-types": "latest",
+    "@vitejs/plugin-vue": "3.0.1"
+  },
+  "dependencies": {
+    "vue": "3.2.37",
+    "mirotone": "3"
+  }
+}
